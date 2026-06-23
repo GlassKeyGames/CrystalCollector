@@ -7,6 +7,31 @@ This project focuses on gameplay systems, UI programming, player feedback, and c
 
 ---
 
+## Gameplay Video
+
+
+
+---
+
+## Screenshots
+
+### Main Menu
+![Main Menu](Screenshots/MainMenu.png)
+
+### Maze Environment
+![Maze](Screenshots/Maze.png)
+
+### How To Play Screen
+![How To Play](Screenshots/HowToPlay.png)
+
+### Win Screen
+![Win Screen](Screenshots/WinScreen.png)
+
+### Lose Screen
+![Lose Screen](Screenshots/LoseScreen.png)
+
+---
+
 ## Gameplay
 
 - Explore a custom-built maze level
@@ -114,6 +139,14 @@ This project was created to practice:
 - Event-driven systems
 - Player feedback
 - Creating a complete playable experience
+
+---
+
+# Play Crystal Collector
+
+Download:
+
+https://glass-key-games.itch.io/crystal-collector
 
 ---
 
